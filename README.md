@@ -34,7 +34,7 @@
 - Hammering my coding skills with [CodeWars](https://www.codewars.com/dashboard)
 
   
-### 🙌🏻 Свяжись со мной
+### :telephone_receiver: Свяжись со мной :telephone_receiver:
 - [Telegram](+34633740848)
 - [WhatsApp](+34633740848)
 
