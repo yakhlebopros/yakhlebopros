@@ -30,8 +30,8 @@
 
 
 ### ⚡️ Currently ⚡️
-- Discovering python and Data Science
-- Hammering my coding skills with [CodeWars](https://www.codewars.com/dashboard)
+- Discovering Python and Data Science
+- Hammering my coding skills with [CodeWars](https://www.codewars.com/users/yakhlebopros)
 
   
 ### :telephone_receiver: Свяжись со мной :telephone_receiver:
