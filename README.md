@@ -13,7 +13,7 @@
 * Research
 * Teaching
 * Soft-skills:
-  - top comunication skills
+  - top communication skills
   - team-player
   - quick study
   - excellent under stress
