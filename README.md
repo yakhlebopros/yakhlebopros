@@ -34,7 +34,7 @@
 - Hammering my coding skills with [CodeWars](https://www.codewars.com/users/yakhlebopros)
 
   
-### :telephone_receiver: Свяжись со мной :telephone_receiver:
+### :telephone_receiver: Contact me :telephone_receiver:
 - [Telegram](+34633740848)
 - [WhatsApp](+34633740848)
 
